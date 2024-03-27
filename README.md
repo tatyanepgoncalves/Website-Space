@@ -1,5 +1,5 @@
 <h1 align='center'>Space tourism multi-page website </h1>
-![Design preview for the Space tourism multi-page website](./assets/Desktop%20-%20Home.jpg)
+![Design preview for the Space tourism multi-page website]("./assets/Desktop%20-%20Home.jpg")
 
 ## Índice
 
